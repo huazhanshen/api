@@ -9,7 +9,7 @@ cf反代google api接口，自定义域名代替generativelanguage.googleapis.co
 
 #
 
-# Junyang
+# Junyang搭建接口
 https://blog.fanjunyang.zone/archives/api-proxy-serve
 
 Gemini API代理
