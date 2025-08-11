@@ -19,6 +19,7 @@ https://openai.com/v1/chat/completions
 
 https://aceproxy.xyz/openai/v1/chat/completions
 
+
 Claude
 
 https://api.anthropic.com/v1/claude/generate
@@ -27,12 +28,14 @@ https://api.anthropic.com/v1/claude/generate
 
 https://aceproxy.xyz/claude/v1/claude/generate
 
+
 Gemini
  https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent
 
 替换为
 
 https://aceproxy.xyz/gemini/v1beta/models/gemini-pro:generateContent
+
 
 Grok
 
@@ -41,6 +44,7 @@ https://api.x.ai/v1/chat/completions
 替换为
 
 https://aceproxy.xyz/grok/v1/chat/completions
+
 
 Poixe
 
