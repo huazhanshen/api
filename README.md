@@ -13,7 +13,7 @@ cf反代google api接口，自定义域名代替generativelanguage.googleapis.co
 
 OpenAI
 https://openai.com/v1/chat/completions
-替换为 
+替换为
 https://aceproxy.xyz/openai/v1/chat/completions
 
 Claude
